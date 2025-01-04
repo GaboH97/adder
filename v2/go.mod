@@ -1,4 +1,4 @@
-module github.com/GaboH97/adder
+module github.com/GaboH97/adder/v2
 
 go 1.23.4
 
